@@ -4,3 +4,4 @@ Esse é o repositório do desafio de projeto do curso de Flexbox na Dio, na qual
 
 Além das linguagens de marcação (HTML e CSS) para desenvolver interface também desenvolvi no código um slider autómatico (em Javascript) semelhante a interface original.
 
+https://raapeixoto.github.io/dio-desafio-projeto-instagram/
